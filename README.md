@@ -1,2 +1,2 @@
 # medicenter
- This project is a hospital site than it has UX/UI designer with responsive based.
+ This project is a hospital site so it has UX/UI designer and responsive base.
